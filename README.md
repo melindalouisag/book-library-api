@@ -43,7 +43,7 @@ This API allows you to:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/book-library-api.git
+git clone https://github.com/melindalouisag/book-library-api.git
 cd book-library-api
 
 # 2. Create and activate virtual environment
